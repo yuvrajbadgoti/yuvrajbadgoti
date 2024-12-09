@@ -1,16 +1,15 @@
 ### Hi I'm Yuvraj Badgoti 👋
 
-- 🔭 I’m currently working on freelancing.
-- 🌱 I’m currently learning lots of things.
-- 👯 I’m looking to collaborate on Google.
+- 🔭 I’m currently working at IzooLogic.
+- 🌱 I’m currently learning Cyber threat hunting.
+- 👯 I’m looking to collaborate with Google.
 - 🤔 I’m looking for help with my personal Products and Projects.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/yuvraj-badgoti/
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/yuvrajbadgoti
 - 😄 Pronouns: CROWN PRINCE
 - ⚡ Fun fact: I am a Hacker 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CROWNPRINCE0&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CROWNPRINCE0&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
